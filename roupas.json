@@ -1,0 +1,9 @@
+[
+    {
+        "id": 1,
+        "nome": "Nike",
+        "tamanho": "32",
+        "quantidade": "4",
+        "imagem_url": "uploads\/"
+    }
+]
